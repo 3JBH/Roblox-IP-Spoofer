@@ -1,4 +1,4 @@
-spoofedIP = "69.69.69.69"
+spoofedIP = "69.69.69.69" -- your fake ip
 spoofedHttpbin = [[{
   "args": {}, 
   "headers": {
